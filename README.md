@@ -36,6 +36,11 @@ This ui will let you design and execute advanced stable diffusion pipelines usin
 
 ### [Installing ComfyUI](#installing)
 
+## Notice
+This repository is a fork from the original [ComfyUI repository](https://github.com/comfyanonymous/ComfyUI) for the purpose of containerizing the program.
+The following custom nodes are installed out the box:
+[ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+
 ## Features
 - Nodes/graph/flowchart interface to experiment and create complex Stable Diffusion workflows without needing to code anything.
 - Fully supports SD1.x, SD2.x, [SDXL](https://comfyanonymous.github.io/ComfyUI_examples/sdxl/), [Stable Video Diffusion](https://comfyanonymous.github.io/ComfyUI_examples/video/), [Stable Cascade](https://comfyanonymous.github.io/ComfyUI_examples/stable_cascade/), [SD3](https://comfyanonymous.github.io/ComfyUI_examples/sd3/) and [Stable Audio](https://comfyanonymous.github.io/ComfyUI_examples/audio/)
